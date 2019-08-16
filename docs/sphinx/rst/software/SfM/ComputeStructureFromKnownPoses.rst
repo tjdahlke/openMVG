@@ -3,7 +3,7 @@
 openMVG_main_ComputeStructureFromKnownPoses
 ********************************************
 
-This application compute corresponding features and robustly triangulate them according the geometry of the known camera intrinsics & poses.
+This application computes corresponding features and robustly triangulate them according the geometry of the known camera intrinsics & poses.
 
 Algorithm of the application
 
